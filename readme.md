@@ -1,5 +1,5 @@
 # Manhatten Zoo Git Project
-![Group of zoo animals](zoo-animals.jpg)
+![Group of zoo animals](assets/zoo-animals.jpg)
 ## Use Git to track meal guidelines for animals
 ### Skills practiced:
 * initialize a Git repository
