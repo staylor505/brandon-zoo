@@ -1,8 +1,5 @@
 # Manhatten Zoo Git Project
-===========================
-
 ## Use Git to track meal guidelines for animals
-
 ### Skills practiced:
 * initialize a Git repository
 * check status of repository
