@@ -12,7 +12,7 @@
 * make another commit
 * view Git history
 * repeat
-Also:
+>Also:
 1. git fetch
 2. git push
 3. git pull
