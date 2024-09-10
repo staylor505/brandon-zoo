@@ -1,4 +1,4 @@
-# Manhatten Zoo Git Practice Project
+# Brandon Zoo Git Practice Project
 ![Group of Zoo Animals](/assets/zoo-animals.jpg)
 ## Use Git to track meal guidelines for animals
 
