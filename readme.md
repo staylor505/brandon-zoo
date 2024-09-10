@@ -1,6 +1,7 @@
-# Manhatten Zoo Git Project
-![Group of zoo animals](assets/zoo-animals.jpg)
+# Manhatten Zoo Git Practice Project
+![Group of Zoo Animals](/assets/zoo-animals.jpg)
 ## Use Git to track meal guidelines for animals
+
 ### Skills practiced:
 * initialize a Git repository
 * check status of repository
@@ -11,3 +12,10 @@
 * make another commit
 * view Git history
 * repeat
+Also:
+1. git fetch
+2. git push
+3. git pull
+
+### Practiced:
+**Using basic formatting syntax in Readme files**
