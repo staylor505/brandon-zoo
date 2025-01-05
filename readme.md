@@ -2,8 +2,8 @@
 ![Group of Zoo Animals](/assets/zoo-animals.jpg)
 ## Use Git to track meal guidelines for animals
 
-### Skills practiced:
-* ✅initialize a Git repository
+### ✅ Skills practiced:
+* initialize a Git repository
 * check status of repository
 * add file to staging area
 * make a commit
