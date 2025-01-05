@@ -19,3 +19,5 @@
 
 ### Practiced:
 **Using basic formatting syntax in Readme files**
+
+[Check out my home page](https://assiniboinecreative.media/faculty/sean/)
